@@ -12,7 +12,5 @@ git clone https://github.com/yurouwang-rosie/AlignVelo.git
 cd AlignVelo
 pip install .
 ```
-##Example
-```python
-
-```
+## Example
+Please see [Example Notebook](example/test.ipynb) for tutorial/example.
